@@ -1,0 +1,7 @@
+<div class="block-container">
+  @for(link of linkList; track link ){
+  <div class="link-option" (click)="redirect(link?.linkUrl)">
+    <span>{{link?.linkName}} </span>
+  </div>
+  }
+</div>
