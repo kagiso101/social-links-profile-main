@@ -18,7 +18,7 @@
           "builder": "@angular-devkit/build-angular:application",
           "options": {
             "outputPath": "dist/social-links-profile-main",
-            "index": "../social-links-profile-main/src/docs/index.html",
+            "index": "./src/app/index.html",
             "browser": "src/main.ts",
             "polyfills": [
               "zone.js"
