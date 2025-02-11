@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://kagiso101.github.io/social-links-profile-main/)
+- Solution URL: [Solution](https://github.com/kagiso101/social-links-profile-main)
+- Live Site URL: [Live site URL](https://kagiso101.github.io/social-links-profile-main/)
 
 ## My process
 
